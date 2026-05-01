@@ -32,7 +32,7 @@ API REST développée en ASP.NET Core permettant la gestion de tâches avec auth
 
 
 
-\## 🎯 Fonctionnalités
+\## Fonctionnalités
 
 
 
@@ -121,16 +121,6 @@ API REST développée en ASP.NET Core permettant la gestion de tâches avec auth
 
 
 \---
-
-
-
-\## ⚙️ Installation
-
-
-
-```bash
-
-dotnet restore
 
 dotnet ef database update
 
